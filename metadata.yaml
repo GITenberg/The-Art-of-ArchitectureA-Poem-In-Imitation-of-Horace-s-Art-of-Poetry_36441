@@ -1,0 +1,37 @@
+_repo: The-Art-of-ArchitectureA-Poem-In-Imitation-of-Horace-s-Art-of-Poetry_36441
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Gibson, William A.
+    birthdate: 1932
+    gutenberg_agent_id: '38270'
+    url: http://www.gutenberg.org/2009/agents/38270
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gwynn, John
+    aliases:
+    - Gwyn, John
+    - Gwynne, John
+    birthdate: 1713
+    deathdate: 1786
+    gutenberg_agent_id: '38960'
+    url: http://www.gutenberg.org/2009/agents/38960
+description: ''
+gutenberg_issued: '2011-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36441'
+  lccn: '74634197'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horace -- Parodies, imitations, etc.'
+- !lcc 'PR'
+- !lcsh 'Architecture -- Poetry'
+title: 'The Art of Architecture: A Poem in Imitation of Horace''s Art of Poetry'
+url: http://www.gutenberg.org/ebooks/36441
